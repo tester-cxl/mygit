@@ -3,8 +3,5 @@ print("test!")
 print("hello , mysql")
 print("英雄联盟！")
 print("又上班了")
-<<<<<<< HEAD
 print("master分支")
-=======
-print("master分支")
->>>>>>> dev
+
